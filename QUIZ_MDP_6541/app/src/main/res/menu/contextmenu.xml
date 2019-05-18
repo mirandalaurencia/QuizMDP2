@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuLevel"
+        android:title="Level" />
+    <item
+        android:id="@+id/menuScore"
+        android:title="High Score" />
+    <item
+        android:id="@+id/menuLogout"
+        android:title="Logout" />
+</menu>
